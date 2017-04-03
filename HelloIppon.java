@@ -7,6 +7,6 @@ public class HelloIppon
 		System.out.println("  | || |_) | |_) | | | |  \\| | (_) | |_| |  __/ __| __|  / __/ _ \\|  _ \\| __/ _` | |  _ \\ / _ \\  __| | | ");
 		System.out.println("  | ||  __/|  __/| |_| | |\\  |  _  |  _| | |  \\__ \\ |_  | (_| (_) | | | | || (_| | | | | |  __/ |    |_| ");
 		System.out.println(" |___|_|   |_|    \\___/|_| \\_| (_) |_| |_|_|  |___/\\__|  \\___\\___/|_| |_|\\__\\__,_|_|_| |_|\\___|_|    (_) ");
-		System.out.println(" *** Version ltheou 0.0.1");
+		System.out.println(" *** Version ltheou 0.0.2");
 	}
 }
